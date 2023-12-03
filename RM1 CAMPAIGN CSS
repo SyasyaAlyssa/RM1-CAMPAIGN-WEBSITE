@@ -1,0 +1,50 @@
+    body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #0f847a;
+            color: lightseagreen;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: lightseagreen;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        section a {
+            margin: 20px 0;
+        }
+
+        form {
+            margin: 40px o;
+            border-color: #0f847a;
+            background-color: #e8fff5;
+        }
+
+        #Submit:hover {
+            background-color: lightseagreen;
+            color: white;
+          }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
